@@ -1,4 +1,4 @@
 Testgithub
 ==========
 
-test github is a repo for sharing the bare minimum of github.
+in Testgithub clean_up is a new branch other than master
